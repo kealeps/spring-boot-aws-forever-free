@@ -5,3 +5,5 @@ El objetivo del repositorio es almacenar los proyectos hechos con spring boot y 
 
 Servicios realizados con Exito!
   - DynamoDB
+  - Lambda
+
