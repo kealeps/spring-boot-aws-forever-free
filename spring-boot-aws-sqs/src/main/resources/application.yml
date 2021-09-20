@@ -2,6 +2,7 @@ cloud:
   aws:
     region:
       static: us-east-1
+      auto: false
     stack:
       auto: false
     credentials:
