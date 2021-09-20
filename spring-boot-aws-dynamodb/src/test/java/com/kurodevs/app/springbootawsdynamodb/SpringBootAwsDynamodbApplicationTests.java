@@ -1,4 +1,4 @@
-package com.kurodevs.dyanmo.app.springbootawsdynamodb;
+package com.kurodevs.app.springbootawsdynamodb;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

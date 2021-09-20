@@ -1,4 +1,4 @@
-package com.kurodevs.dyanmo.app.springbootawsdynamodb;
+package com.kurodevs.app.springbootawsdynamodb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
