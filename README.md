@@ -8,4 +8,5 @@ Servicios realizados con Exito!
   - Lambda
   - SQS
   - SNS
+  - SES
 
