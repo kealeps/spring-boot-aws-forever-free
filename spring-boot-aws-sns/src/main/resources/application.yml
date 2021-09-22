@@ -1,0 +1,15 @@
+cloud:
+  aws:
+    region:
+      static: <REGION>
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: <ACCESS-KEY>
+      secret-key: <SECRET-KEY>
+    topic-arn: <TOPIC-ARN>
+
+
+server:
+  port: 8084
