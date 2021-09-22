@@ -7,4 +7,5 @@ Servicios realizados con Exito!
   - DynamoDB
   - Lambda
   - SQS
+  - SNS
 
